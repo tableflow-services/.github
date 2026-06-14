@@ -83,7 +83,7 @@ Extensão do modelo Tableflow para hotéis, motéis e pousadas. Adaptado para fl
 Tem interesse em nossos produtos, quer uma demonstração ou tem alguma parceria em mente?
 
 - 📧 **contato@tableflow.com.br** *(ajuste o e-mail real aqui)*
-- 🌐 **[tableflow.com.br](#)** *(ajuste o link real aqui)*
+- 🌐 **[tableflow.software](#)** *(ajuste o link real aqui)*
 
 ---
 
